@@ -23,4 +23,4 @@ CREATE TABLE books(
 );
 INSERT INTO books (name, author, year, pages, us_id) VALUES
 ('Bridge to Terabitiu', 'Katrin Paterson', '2005.05.12',170,1),
-('Harry Potter and a Chamber of Secrets', 'J. K. Roling', '2001.01.11',560,1):
+('Harry Potter and a Chamber of Secrets', 'J. K. Roling', '2001.01.11',560,1);
